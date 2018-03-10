@@ -1,0 +1,15 @@
+{
+  "name": "first_api",
+  "version": "1.0.0",
+  "description": "Esta es mi primer api en express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ron",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
